@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HackExample</string>
+    <string name="time">Time: </string>
+    <string name="show_time_button">Show Time</string>
+
+    <string name="press_one">Press the button</string>
+    <string name="press_two">Press the button second time</string>
+    <string name="passing_time">The passing time</string>
+</resources>
